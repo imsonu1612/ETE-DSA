@@ -1,3 +1,5 @@
+// Number of Connected Components: Find the number of connected components in an undirected graph.
+
 import java.util.*;
 
 public class ConnectedComponents {
